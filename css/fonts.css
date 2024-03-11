@@ -1,0 +1,54 @@
+body{
+	background-color:#D0F0C0;
+	background-image: url(https://media3.giphy.com/media/L3KJjjqtoyzCuIVF7e/giphy.gif?cid=6c09b952bjecpd2gpavh3uz4wzs7wgq2tiuag3244n7hgd41&ep=v1_stickers_related&rid=giphy.gif&ct=s);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}
+p{
+	font-size: 50px;
+}
+.p1{
+	background: Linear-gradient(#BADBAD, #8FBC8F, #87A96B);
+	color: #fff;
+	text-align: center;
+}
+.p2{
+	font-family: Times, "Times New Roman", Georgia, serif;;
+}
+.p3{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p4{
+	font-family: "Lucida Console", Courier, monospace;
+}
+.p5{
+	font-family: "Lucida Handwriting", cursive;
+	text-shadow: 2px 2px green;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-color: green;
+	text-decoration-style: wavy;
+}
+.p6{
+	font-family: fantasy;
+	text-transform: capitalize;
+}
+.p7{
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+.p8{
+	font-family: 'Amatic SC', sans-serif;
+	color: #414833;
+}
+.p9{
+	font-family: 'Caveat', cursive;
+}
+.p10{
+	font-family: 'Caveat', cursive;
+	color: blue;
+}
+.s1{
+	font-size: 2em 
+	color: green;
+}
